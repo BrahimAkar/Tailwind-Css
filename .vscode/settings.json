@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#113329",
+        "titleBar.activeBackground": "#174839",
+        "titleBar.activeForeground": "#F6FCFA"
+    },
+    "browser-preview.startUrl": "http://127.0.0.1:5500/public/index.html"
+}
